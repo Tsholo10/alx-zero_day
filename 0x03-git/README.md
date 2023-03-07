@@ -1,1 +1,1 @@
-Readme file for the 0x03-git directory
+I now understand what branching is and what it does.
